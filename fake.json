@@ -1,0 +1,182 @@
+[
+    {
+        "name": "azer Blade 15 Studio Edition Core i7 10th Gen 15.6\" UHD OLED 4K Touch Laptop With Quadro RTX 5000 16GB Graphics",
+        "category": "laptop",
+        "brand": "razer",
+        "price": 2499,
+        "spec": "Intel Core i7-10875H Processor (12M Cache, 2.30 GHz up to 5.10 GHz)\n        15.6\" OLED 4K Touch 60Hz\n        1TB SSD (M.2 NVMe PCIe 3.0 x4)\n        32GB (16GB x 2) DDR4-2933MHz",
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/studio-edition/studio-edition-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "AMD Ryzen 9 5950X Processor",
+        "category": "Processor",
+        "brand": "AMD",
+        "price": 1199,
+        "spec": "Speed: 3.4GHz Up to 4.9GHz\n        L2 Cache: 8MB, L3 Cache: 64MB\n        Cores: 16, Threads: 32\n        Up to 3200MHz DDR4 Memory",
+        "img": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5950x/ryzen-9-5950x-1-500x500.jpg",
+        "rating": 4
+    },
+    {
+        "name": "Samsung Odyssey C49G95TSSW 49 G-Sync 240Hz Curved 2k Gaming Monitor",
+        "category": "Monitor ",
+        "brand": "Samsung",
+        "price": 1499,
+        "spec": " Odyssey C49G95TSSW\n        Flicker Free, G-Sync, FreeSync Premium Pro\n        49'' 2k (5120 x 1440) LED Display\n        Response Time: 1(GTG) ms\n        Refresh Rate: Max 240Hz",
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c49g95tssw/c49g95tssw-1-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "NZXT Kraken Z73 360mm All-in-One Liquid CPU Cooler",
+        "category": "CPU Cooler",
+        "brand": "NZXT",
+        "price": 399,
+        "spec": "24-bit true-color 2.36” LCD screen\n        3 x Aer P120 Radiator Fan\n        Fan speed: 500-2,000 + 300 RPM\n        Compatible with Intel and AMD",
+        "img": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/nzxt/kraken-z73/kraken-z73-500x500.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "Gigabyte Z490 Aorus Xtreme 10th Gen WiFi E-ATX Motherboard",
+        "category": "Motherboard",
+        "brand": "GIGABYTE",
+        "price": 499,
+        "spec": " Intel Z490 Express\n        Intel Socket LGA1200 for 10th Gen Processors\n        4 x DIMM, Max. 128GB DDR4\n        CrossFire and SLI Supported",
+        "img": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/z490-aorus-xtreme/z490-aorus-xtreme-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "Corsair Dominator Platinum RGB 16GB 4000MHz DDR4 RAM (Black)",
+        "category": "Ram",
+        "brand": "Corsair",
+        "price": 100,
+        "spec": " Corsair 16GB Dominator Platinum RGB\n        16GB 4000MHz DDR4 DRAM\n        Tested Voltage: 1.35V\n        Package Memory Format: DIMM\n        Heat Spreader: Anodized Aluminum",
+        "img": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-16gb/dominator-platinum-10-500x500.jpg",
+        "rating": 4
+    },
+    {
+        "name": "ASUS ROG THOR 1200P 1200W 80 Plus Platinum Power Supply",
+        "category": "Power Supply",
+        "brand": "Asus",
+        "price": 99,
+        "spec": "ROG THOR 1200P\n        80 Plus Platinum certification for energy efficiency\n        Built with 100% Japanese capacitors\n        OLED Power Display\n        IP5X dust-resistance",
+        "img": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-1200p/rog-thor-1200p-01-500x500.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "Antec TORQUE Black + Red Aluminum ATX Mid Tower Gaming Casing",
+        "category": "Casing",
+        "brand": "Antec",
+        "price": 199,
+        "spec": "Antec TORQUE\n        Motherboard Support: E-ATX (Up to 12\"x11\"), ATX, Micro-ATX, ITX\n        Precision Cut Craftsmanship\n        Unrivaled Performance and Beauty\n        Extensive Liquid Cooling Support",
+        "img": "https://www.startech.com.bd/image/cache/catalog/component/casing/antec/torque/torque-1-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "Huawei Display AD80HW 23.8\" IPS FHD Monitor",
+        "category": "Monitor",
+        "brand": "HUAWEI",
+        "price": 49,
+        "spec": "AD80HW\n        Resolution: 1920 x 1080 (FHD) @60 Hz\n        Ports: VGA x 1, HDMI x 1, DC input x1\n        VESA Mount Support\n        Toolless Maintaining",
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/huawei/ad80hw/ad80hw-500x500.jpg",
+        "rating": 4
+    },
+    {
+        "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
+        "category": "MacBook ",
+        "brand": "Apple",
+        "price": 1299,
+        "spec": " Apple MacBook Air 13\" Space Gray with Apple M1 Chip\n        Apple M1 chip with 8-core CPU and 7-core GPU\n        8GB RAM\n        256GB SSD\n        13.3-inch 2560x1600 LED-backlit Retina Display",
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/MGN73/macbook-mgn73Zp-a-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "Intel Core i3 10105F 10th Gen Processor",
+        "category": "Processor",
+        "brand": "\tINTEL",
+        "price": 299,
+        "spec": "Core i3 10105F\n        Socket Supported FCLGA1200\n        Speed 3. 70 up to 4.40 GHz\n        Cores- 4 & Threads- 8\n        6M Cache",
+        "img": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10105f/i3-10105f-500x500.jpg",
+        "rating": 3.5
+    },
+    {
+        "name": "Samsung 980 Pro 250GB PCIe 4.0 M.2 NVMe SSD",
+        "category": "SSD ",
+        "brand": "\tSamsung",
+        "price": 399,
+        "spec": "MPN: MZ-V8P250BW\n        Model: Samsung 980 Pro 250GB\n        Form Factor: M.2 (2280)\n        NVMe SSD: PCIe 4.0\n        Seq. Reads: 6,400MB/s\n        Seq. Writes: 2,700MB/s",
+        "img": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-pro-250gb/980-pro-250gb-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "ASUS ROG Strix LC GeForce RTX 3080 Ti OC Edition 12GB GDDR6X Gaming Graphics Card",
+        "category": "Graphics Card",
+        "brand": "Asus",
+        "price": 1799,
+        "spec": " ROG-STRIX-LC-RTX3080TI-O12G-GAMING\n        Model: ROG Strix LC GeForce RTX 3080 Ti OC Edition\n        NVIDIA Ampere Streaming Multiprocessors\n        2nd Gen RT Cores & 3rd Gen Tensor Cores\n        Full-coverage cold plate\n        240mm radiator and 560mm tubing",
+        "img": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/rog-strix-lc-geforce-rtx3080ti-oc/rog-strix-lc-geforce-rtx3080ti-oc-02-500x500.jpg",
+        "rating": 5
+    },
+    {
+        "name": "Transcend 8GB DDR4 2666MHz Bus SO-DIMM Laptop RAM",
+        "category": "RAM",
+        "brand": "\tTranscend",
+        "price": 39,
+        "spec": "MPN: JM2666HSB-8G\n        Model: Transcend 8GB\n        Capacity- 8GB\n        CAS Latency: CL19\n        Speed: PC4-21300 (2666 MHz)\n        DIMM Type: 260-Pin SO-DIMM",
+        "img": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/8gb-2666/8gb-500x500.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "Seagate Barracuda 2TB 2.5 Inch SATA Laptop HDD",
+        "category": "Hard Disk Drive",
+        "brand": "Seagate",
+        "price": 189,
+        "spec": "MPN: ST2000LM015\n        Model: Barracuda\n        Capacity: 2TB\n        Form factor: 2.5 Inch\n        Interface (Built-in): SATA 6.0Gb/s\n        Average Seek Time: 13ms",
+        "img": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda/barracuda-0010-500x500.jpg",
+        "rating": 3
+    },
+    {
+        "name": "Asus ROG Maximus XIII Hero Z590 Intel 10th and 11th Gen ATX Motherboard",
+        "category": "otherboard ",
+        "brand": "Asus",
+        "price": 499,
+        "spec": " Asus ROG Maximus XIII Hero Z590\n        Supports 10th and 11th Gen Intel Processors\n        Robust Power Solution\n        Optimized Thermal Design\n        High-performance Networking",
+        "img": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-maximus-xiii-hero-z590/rog-maximus-xiii-hero-z590-500x500.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "DeepCool GAMMAXX L240 A-RGB liquid CPU Cooler",
+        "category": "CPU Cooler ",
+        "brand": "DeepCool",
+        "price": 99,
+        "spec": " DP-H12CF-GL240-ARGB\n        Model: GAMMAXX L240 A-RGB\n        Anti-Leak Technology\n        Ultra-large copper base\n        Two A-RGB PWM fans\n        Supports Intel & AMD",
+        "img": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/gammaxx-l240-argb/gammaxx-l240-argb-1-500x500.jpg",
+        "rating": 4
+    },
+    {
+        "name": "Asus ROG Rapture GT AX11000 Tri-band WiFi Gaming Router",
+        "category": "Router ",
+        "brand": "Asus",
+        "price": 399,
+        "spec": "Asus ROG Rapture GT AX11000\n        Triple-level Game Acceleration\n        Battle-ready-hardware\n        Front-line Network Security\n        Better Partner with Mesh System",
+        "img": "https://www.startech.com.bd/image/cache/catalog/router/asus/rog-rapture-ax11000/asus-rog-rapture-ax11000-500x500.jpg",
+        "rating": 4.5
+    },
+    {
+        "name": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan Graphics Card",
+        "category": "Graphics Card",
+        "brand": "ZOTAC",
+        "price": 899,
+        "spec": "ZT-T16620F-10L\n        Model: Zotac GeForce GTX 1660 Super\n        Super Compact Design\n        Dual Offset Fan Design\n        4K / HDR / VR Ready\n        FireStorm Utility",
+        "img": "https://www.startech.com.bd/image/cache/catalog/graphics-card/zotac/gtx-1660-super/geforce-gtx-1660-super-500x500.jpg",
+        "rating": 3
+    },
+    {
+        "name": "Tecnoware FGCEVDP2403MME 2KVA Online UPS (Origin Italy)",
+        "category": "UPS ",
+        "brand": "Tecnoware",
+        "price": 499,
+        "spec": " FGCEVDP2403MME 2KVA\n        Nominal Power 2.000 VA\n        Active Power 1800W\n        Compatible with Generators\n        USB and RS232 ports",
+        "img": "https://www.startech.com.bd/image/cache/catalog/ups/tecnoware/fgcevdp1004mm/fgcevdp1004mm-front-500x500.jpg",
+        "rating": 5
+    }
+]
