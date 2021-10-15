@@ -1,14 +1,16 @@
 [
     {
+        "id" : 001 ,
         "name": "azer Blade 15 Studio Edition Core i7 10th Gen 15.6\" UHD OLED 4K Touch Laptop With Quadro RTX 5000 16GB Graphics",
         "category": "laptop",
         "brand": "razer",
         "price": 2499,
         "spec": "Intel Core i7-10875H Processor (12M Cache, 2.30 GHz up to 5.10 GHz)\n        15.6\" OLED 4K Touch 60Hz\n        1TB SSD (M.2 NVMe PCIe 3.0 x4)\n        32GB (16GB x 2) DDR4-2933MHz",
         "img": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/studio-edition/studio-edition-500x500.jpg",
-        "rating": 5
+        "rating": 5 
     },
     {
+        "id" : 002 ,
         "name": "AMD Ryzen 9 5950X Processor",
         "category": "Processor",
         "brand": "AMD",
@@ -18,6 +20,7 @@
         "rating": 4
     },
     {
+        "id" : 003 ,
         "name": "Samsung Odyssey C49G95TSSW 49 G-Sync 240Hz Curved 2k Gaming Monitor",
         "category": "Monitor ",
         "brand": "Samsung",
@@ -27,6 +30,7 @@
         "rating": 5
     },
     {
+        "id" : 004 ,
         "name": "NZXT Kraken Z73 360mm All-in-One Liquid CPU Cooler",
         "category": "CPU Cooler",
         "brand": "NZXT",
@@ -36,6 +40,7 @@
         "rating": 4.5
     },
     {
+        "id" : 005 ,
         "name": "Gigabyte Z490 Aorus Xtreme 10th Gen WiFi E-ATX Motherboard",
         "category": "Motherboard",
         "brand": "GIGABYTE",
@@ -45,6 +50,7 @@
         "rating": 5
     },
     {
+        "id" : 006,
         "name": "Corsair Dominator Platinum RGB 16GB 4000MHz DDR4 RAM (Black)",
         "category": "Ram",
         "brand": "Corsair",
@@ -54,6 +60,7 @@
         "rating": 4
     },
     {
+        "id" : 007 ,
         "name": "ASUS ROG THOR 1200P 1200W 80 Plus Platinum Power Supply",
         "category": "Power Supply",
         "brand": "Asus",
@@ -63,6 +70,7 @@
         "rating": 4.5
     },
     {
+        "id" : 008 ,
         "name": "Antec TORQUE Black + Red Aluminum ATX Mid Tower Gaming Casing",
         "category": "Casing",
         "brand": "Antec",
@@ -72,6 +80,7 @@
         "rating": 5
     },
     {
+        "id" : 009 ,
         "name": "Huawei Display AD80HW 23.8\" IPS FHD Monitor",
         "category": "Monitor",
         "brand": "HUAWEI",
@@ -81,6 +90,7 @@
         "rating": 4
     },
     {
+        "id" : 010 ,
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
         "category": "MacBook ",
         "brand": "Apple",
@@ -90,6 +100,7 @@
         "rating": 5
     },
     {
+        "id" : 011 ,
         "name": "Intel Core i3 10105F 10th Gen Processor",
         "category": "Processor",
         "brand": "\tINTEL",
@@ -99,6 +110,7 @@
         "rating": 3.5
     },
     {
+        "id" : 012 ,
         "name": "Samsung 980 Pro 250GB PCIe 4.0 M.2 NVMe SSD",
         "category": "SSD ",
         "brand": "\tSamsung",
@@ -108,6 +120,7 @@
         "rating": 5
     },
     {
+        "id" : 013 ,
         "name": "ASUS ROG Strix LC GeForce RTX 3080 Ti OC Edition 12GB GDDR6X Gaming Graphics Card",
         "category": "Graphics Card",
         "brand": "Asus",
@@ -117,6 +130,7 @@
         "rating": 5
     },
     {
+        "id" : 014 ,
         "name": "Transcend 8GB DDR4 2666MHz Bus SO-DIMM Laptop RAM",
         "category": "RAM",
         "brand": "\tTranscend",
@@ -126,6 +140,7 @@
         "rating": 4.5
     },
     {
+        "id" : 015 ,
         "name": "Seagate Barracuda 2TB 2.5 Inch SATA Laptop HDD",
         "category": "Hard Disk Drive",
         "brand": "Seagate",
@@ -135,6 +150,7 @@
         "rating": 3
     },
     {
+        "id" : 016 ,
         "name": "Asus ROG Maximus XIII Hero Z590 Intel 10th and 11th Gen ATX Motherboard",
         "category": "otherboard ",
         "brand": "Asus",
@@ -144,6 +160,7 @@
         "rating": 4.5
     },
     {
+        "id" : 017 ,
         "name": "DeepCool GAMMAXX L240 A-RGB liquid CPU Cooler",
         "category": "CPU Cooler ",
         "brand": "DeepCool",
@@ -153,6 +170,7 @@
         "rating": 4
     },
     {
+        "id" : 018 ,
         "name": "Asus ROG Rapture GT AX11000 Tri-band WiFi Gaming Router",
         "category": "Router ",
         "brand": "Asus",
@@ -162,6 +180,7 @@
         "rating": 4.5
     },
     {
+        "id" : 019 ,
         "name": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan Graphics Card",
         "category": "Graphics Card",
         "brand": "ZOTAC",
@@ -171,6 +190,7 @@
         "rating": 3
     },
     {
+        "id" : 020 ,
         "name": "Tecnoware FGCEVDP2403MME 2KVA Online UPS (Origin Italy)",
         "category": "UPS ",
         "brand": "Tecnoware",
