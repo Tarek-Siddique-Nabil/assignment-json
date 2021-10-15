@@ -1,6 +1,5 @@
 [
-    {
-        "key" : 001 ,
+    {     
         "name": "azer Blade 15 Studio Edition Core i7 10th Gen 15.6\" UHD OLED 4K Touch Laptop With Quadro RTX 5000 16GB Graphics",
         "category": "laptop",
         "brand": "razer",
@@ -9,8 +8,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/studio-edition/studio-edition-500x500.jpg",
         "rating": 5 
     },
-    {
-        "key" : 002 ,
+    {     
         "name": "AMD Ryzen 9 5950X Processor",
         "category": "Processor",
         "brand": "AMD",
@@ -19,8 +17,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5950x/ryzen-9-5950x-1-500x500.jpg",
         "rating": 4
     },
-    {
-        "key" : 003 ,
+    {     
         "name": "Samsung Odyssey C49G95TSSW 49 G-Sync 240Hz Curved 2k Gaming Monitor",
         "category": "Monitor ",
         "brand": "Samsung",
@@ -29,8 +26,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c49g95tssw/c49g95tssw-1-500x500.jpg",
         "rating": 5
     },
-    {
-        "key" : 004 ,
+    {       
         "name": "NZXT Kraken Z73 360mm All-in-One Liquid CPU Cooler",
         "category": "CPU Cooler",
         "brand": "NZXT",
@@ -39,8 +35,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/nzxt/kraken-z73/kraken-z73-500x500.jpg",
         "rating": 4.5
     },
-    {
-        "key" : 005 ,
+    {      
         "name": "Gigabyte Z490 Aorus Xtreme 10th Gen WiFi E-ATX Motherboard",
         "category": "Motherboard",
         "brand": "GIGABYTE",
@@ -49,8 +44,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/z490-aorus-xtreme/z490-aorus-xtreme-500x500.jpg",
         "rating": 5
     },
-    {
-        "key" : 006,
+    {     
         "name": "Corsair Dominator Platinum RGB 16GB 4000MHz DDR4 RAM (Black)",
         "category": "Ram",
         "brand": "Corsair",
@@ -59,8 +53,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-16gb/dominator-platinum-10-500x500.jpg",
         "rating": 4
     },
-    {
-        "key" : 007 ,
+    {     
         "name": "ASUS ROG THOR 1200P 1200W 80 Plus Platinum Power Supply",
         "category": "Power Supply",
         "brand": "Asus",
@@ -69,8 +62,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-1200p/rog-thor-1200p-01-500x500.jpg",
         "rating": 4.5
     },
-    {
-        "key" : 008 ,
+    {      
         "name": "Antec TORQUE Black + Red Aluminum ATX Mid Tower Gaming Casing",
         "category": "Casing",
         "brand": "Antec",
@@ -79,8 +71,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/component/casing/antec/torque/torque-1-500x500.jpg",
         "rating": 5
     },
-    {
-        "key" : 009 ,
+    {       
         "name": "Huawei Display AD80HW 23.8\" IPS FHD Monitor",
         "category": "Monitor",
         "brand": "HUAWEI",
@@ -89,8 +80,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/monitor/huawei/ad80hw/ad80hw-500x500.jpg",
         "rating": 4
     },
-    {
-        "key" : 010 ,
+    {     
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray",
         "category": "MacBook ",
         "brand": "Apple",
@@ -99,8 +89,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/MGN73/macbook-mgn73Zp-a-500x500.jpg",
         "rating": 5
     },
-    {
-        "key" : 011 ,
+    {      
         "name": "Intel Core i3 10105F 10th Gen Processor",
         "category": "Processor",
         "brand": "\tINTEL",
@@ -109,8 +98,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10105f/i3-10105f-500x500.jpg",
         "rating": 3.5
     },
-    {
-        "key" : 012 ,
+    {        
         "name": "Samsung 980 Pro 250GB PCIe 4.0 M.2 NVMe SSD",
         "category": "SSD ",
         "brand": "\tSamsung",
@@ -119,8 +107,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-pro-250gb/980-pro-250gb-500x500.jpg",
         "rating": 5
     },
-    {
-        "key" : 013 ,
+    {    
         "name": "ASUS ROG Strix LC GeForce RTX 3080 Ti OC Edition 12GB GDDR6X Gaming Graphics Card",
         "category": "Graphics Card",
         "brand": "Asus",
@@ -130,7 +117,6 @@
         "rating": 5
     },
     {
-       "key" : 014 ,
         "name": "Transcend 8GB DDR4 2666MHz Bus SO-DIMM Laptop RAM",
         "category": "RAM",
         "brand": "\tTranscend",
@@ -139,8 +125,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/8gb-2666/8gb-500x500.jpg",
         "rating": 4.5
     },
-    {
-        "key" : 015 ,
+    {       
         "name": "Seagate Barracuda 2TB 2.5 Inch SATA Laptop HDD",
         "category": "Hard Disk Drive",
         "brand": "Seagate",
@@ -150,7 +135,6 @@
         "rating": 3
     },
     {
-        "key" : 016 ,
         "name": "Asus ROG Maximus XIII Hero Z590 Intel 10th and 11th Gen ATX Motherboard",
         "category": "otherboard ",
         "brand": "Asus",
@@ -159,8 +143,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-maximus-xiii-hero-z590/rog-maximus-xiii-hero-z590-500x500.jpg",
         "rating": 4.5
     },
-    {
-        "key" : 017 ,
+    {        
         "name": "DeepCool GAMMAXX L240 A-RGB liquid CPU Cooler",
         "category": "CPU Cooler ",
         "brand": "DeepCool",
@@ -169,8 +152,7 @@
         "img": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/gammaxx-l240-argb/gammaxx-l240-argb-1-500x500.jpg",
         "rating": 4
     },
-    {
-        "key" : 018 ,
+    {   
         "name": "Asus ROG Rapture GT AX11000 Tri-band WiFi Gaming Router",
         "category": "Router ",
         "brand": "Asus",
@@ -180,7 +162,6 @@
         "rating": 4.5
     },
     {
-        "key" : 019 ,
         "name": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan Graphics Card",
         "category": "Graphics Card",
         "brand": "ZOTAC",
@@ -190,7 +171,6 @@
         "rating": 3
     },
     {
-        "key" : 020 ,
         "name": "Tecnoware FGCEVDP2403MME 2KVA Online UPS (Origin Italy)",
         "category": "UPS ",
         "brand": "Tecnoware",
